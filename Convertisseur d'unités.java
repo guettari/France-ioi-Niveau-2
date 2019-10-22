@@ -1,4 +1,4 @@
-package fr.appli.nounou;
+package org.france.ioi;
 
 import java.util.Scanner;
 
